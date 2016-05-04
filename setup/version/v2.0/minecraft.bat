@@ -10,7 +10,7 @@ SET /p CH=Kontrola. Pokracovat s %A% RAM?(Y/N):
 IF %CH%==N goto create
 IF %CH%==n goto create
 
-SET /p B=Používaš 64-bit OS?(Y/N):
+SET /p B=PouÅ¾Ã­vaÅ¡ 64-bit OS?(Y/N):
 IF %B%==Y Echo -Xms%A% -Xmx%A% -d64 > RAM.txt
 IF %B%==y Echo -Xms%A% -Xmx%A% -d64 > RAM.txt
 IF %B%==N Echo -Xms%A% -Xmx%A% > RAM.txt
