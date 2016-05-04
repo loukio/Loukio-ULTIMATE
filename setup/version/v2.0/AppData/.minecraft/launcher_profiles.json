@@ -10,13 +10,6 @@
   "selectedProfile": "Loukio ULTIMATE",
   "clientToken": "098026d4-086d-4088-a1bc-f5cfe5c73f7a",
   "authenticationDatabase": {
-    "ab7e5a033c064198a96aec826714d1e1": {
-      "displayName": "loukio",
-      "accessToken": "babef63c3c574948a883234e71ac1927",
-      "userid": "95c25ff0ade14ad387872af0feef1710",
-      "uuid": "ab7e5a03-3c06-4198-a96a-ec826714d1e1",
-      "username": "luki.luki.1998@gmail.com"
-    }
   },
   "selectedUser": "ab7e5a033c064198a96aec826714d1e1",
   "launcherVersion": {
